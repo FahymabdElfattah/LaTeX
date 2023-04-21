@@ -1,0 +1,18 @@
+\begin{thebibliography}{1}
+
+\bibitem{Doe2018}
+John Doe.
+\newblock A fantastic paper.
+\newblock {\em Journal of Amazing Discoveries}, 42(3):123--456, 2018.
+
+\bibitem{texbook}
+Donald~E. Knuth.
+\newblock The texbook.
+\newblock {\em TUGBoat}, 14(3):342--351, 1984.
+
+\bibitem{lamport1994latex}
+Leslie Lamport.
+\newblock {\em \LaTeX: A Document Preparation System}.
+\newblock Addison-Wesley, 1994.
+
+\end{thebibliography}

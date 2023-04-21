@@ -1,0 +1,10 @@
+\babel@toc {english}{}\relax 
+\babel@toc {english}{}\relax 
+\babel@toc {french}{}\relax 
+\select@language {english}
+\select@language {english}
+\contentsline {section}{\textcolor {cyan}{\textbf {Introduction}}}{\if@rlmain \I {4}\else \textLR {4}\fi }{chapter*.2}%
+\select@language {english}
+\contentsline {section}{\numberline {\textcolor {red}{I-}}\bgroup \beginL \latintext CHAPITRE \endL \egroup }{\if@rlmain \I {5}\else \textLR {5}\fi }{section.0.1}%
+\contentsline {section}{\textcolor {cyan}{Conclusion}}{\if@rlmain \I {5}\else \textLR {5}\fi }{figure.0.1}%
+\select@language {english}
